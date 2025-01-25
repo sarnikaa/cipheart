@@ -1,2 +1,6 @@
 tenseal
 seaborn
+StandardScaler
+train_test_split
+LogisticRegression
+GaussianNB
