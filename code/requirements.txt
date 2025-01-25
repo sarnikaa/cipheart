@@ -2,6 +2,3 @@ tenseal
 seaborn
 scikit-learn
 matplotlib
-StandardScaler
-LogisticRegression
-GaussianNB
