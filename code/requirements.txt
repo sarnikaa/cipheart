@@ -1,6 +1,6 @@
 tenseal
 seaborn
-sklearn
+scikit-learn
 matplotlib
 StandardScaler
 train_test_split
