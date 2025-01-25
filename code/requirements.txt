@@ -1,5 +1,7 @@
 tenseal
 seaborn
+sklearn
+matplotlib
 StandardScaler
 train_test_split
 LogisticRegression
